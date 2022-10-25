@@ -4,7 +4,7 @@ import 'package:flutter_blue_app/communication.dart';
 import 'package:flutter_bluetooth_serial/flutter_bluetooth_serial.dart';
 
 import './SelectBondedDevicePage.dart';
-import './ChatPage.dart';
+import 'Bluetooth/ChatPage.dart';
 //import './ChatPage2.dart';
 
 
